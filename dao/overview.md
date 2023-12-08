@@ -1,6 +1,5 @@
 ---
-description: >-
-  Information and agreements related to roles and working groups within
+description: Information and agreements related to roles and working groups within
   <daoName>
 ---
 
@@ -8,7 +7,7 @@ description: >-
 
 <!-- Introduce your DAO's governance process here. -->
 
-### DAO State
+## DAO State
 
 A record of daoName's governance decisions and outcomes are held in this DAO state repository. This is the updatable record of the collective decisions the daoName community has made.&#x20;
 

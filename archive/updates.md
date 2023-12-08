@@ -4,7 +4,7 @@ description: Archive of commits made to the <daoName> State Repository
 
 # 🔏 DAO State Changes
 
-### State Change Details
+## State Change Details
 
 * **Date**\
   ****The date during which the change was committed. Type the date in MM/DD/YY format.

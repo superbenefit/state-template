@@ -10,18 +10,21 @@ To use this proposal standard, edit this document to customize the standard for 
 
 This is a specialized standard governing the content of proposals submitted to daoName governance which request changes or additions to the DAO's policies, permissions roster or governance standards.
 
-### Proposal Requirements
+## Proposal Requirements
 
 In addition to the [standard proposal requirements](./), DAO state update proposals must contain the following elements:
 
-*   #### Pull Request or Change Request Link (`changeRequestUrl`)
+### Pull Request or Change Request Link (`changeRequestUrl`)
 
     A link to the GitHub Pull Request or GitBook Change Request containing the proposed changes. This is used by the governance team to commit your changes if the proposal passes.
-* **Amendment Text (`amendmentText`)**\
-  The full text of the proposed change, including any text replaced or removed.&#x20;
-* **Author's Intention (`amendmentIntention`)**\
-  Describe your intention for making the change request, including the outcome you hope to achieve. This helps to others to better interpret the DAO state language.\
 
+### Amendment Text (`amendmentText`)
+
+  The full text of the proposed change, including any text replaced or removed.
+
+### Author's Intention (`amendmentIntention`)
+
+  Describe your intention for making the change request, including the outcome you hope to achieve. This helps to others to better interpret the DAO state language.\
 
 ## Proposal Formatting
 
@@ -34,7 +37,7 @@ proposalDescription
 
 Proposed by: proposalAuthor
 
-[**Change Request Link**](https://markdownlivepreview.com/changeRequestUrl)
+[**Change Request Link**](changeRequestUrl)
 
 ### Summary
 
@@ -48,65 +51,3 @@ amendmentText
 
 amendmentIntention
 ```
-
-Example Proposal
-
-TBD - Initial gov state proposal to be used as example
-
-
-### Proposal Templates
-
-```md
-# proposalNumber: proposalTitle
-
-proposalDescription
-
-Proposed by: proposalAuthor
-
-**[Change Request Link](changeRequestUrl)**
-
-## Summary
-
-proposalSummary
-
-## Proposed Changes
-
-amendmentText
-
-## Intention
-
-amendmentIntention
-```
-
-```md
----
-description: >-
-  proposalDescription
----
-# proposalNumber: proposalTitle
-
-Proposed by: proposalAuthor
-
-**[Change Request Link](changeRequestUrl)**
-
-## Summary
-
-proposalSummary
-
-## Proposed Changes
-
-amendmentText
-
-## Intention
-
-amendmentIntention
-```
-
-#### How to Use Proposal Templates
-
-You can use these templates to create your own proposals using this format by following the instructions below.
-
-1. Prepare your proposal content using the [requirements](metagovernance.md#proposal-requirements) listed above.
-2. Copy the relevant proposal template and paste the into your preferred text editor (VS Code, Notion, Snapshot, Station, etc).
-3. Replace the element placeholders (such as `proposalTitle`) with your proposal content.
-4. Copy and paste the completed proposal into your destination (Snapshot, Station, Discord, Notion, etc).

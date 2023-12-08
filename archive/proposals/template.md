@@ -8,7 +8,7 @@ description: >-
 
 This template can be used to quickly create archive pages for proposals submitted to daoName governance.
 
-### Required Fields
+## Required Fields
 
 Copy the following fields from the proposal content and/or voting platform data to populate the archive page.
 
@@ -27,38 +27,48 @@ Copy the following fields from the proposal content and/or voting platform data 
 
 ### Field Definitions
 
-*   #### Title (`proposalTitle`)
+#### Title (`proposalTitle`)
 
-    The title of your document as a level-1 heading.
+The title of your document as a level-1 heading.
 
-*   #### Description (`proposalDescription)`
+#### Description (`proposalDescription)`
 
-    A single-sentence summary of your proposal, often displayed in the header as a subtitle.
+A single-sentence summary of your proposal, often displayed in the header as a subtitle.
 
-*   #### Author (`proposalAuthor)`
+#### Author (`proposalAuthor)`
 
-    The author or co-authors of the proposal.
-* **Discussion Page (`discussionUrl`)**\
-  ****A link to the proposal's discussion forum thread or RFC post. \
-  Display as a pretty link (`[🗣️`` `**`Discussion`**`](discussionUrl)`)
-* **Voting Page (`voteUrl`)**\
-  ****A link to the proposal's voting page on Snapshot or similar (or link to Discord post, etc. if voting page isn't available).\
-  Display as a pretty link (`[⚡️`` `**`Snapshot`**`](voteUrl)`)
+The author or co-authors of the proposal.
 
-*   #### Submission Date (`pubDate)`
+#### Discussion Page (`discussionUrl`)
 
-    The date on which the proposal was submitted to the voting space.
-* **Vote Result (`voteResult`)**\
-  The result of the vote (Passed, Failed, Etc.)\
-  You may want to add an emoji to help indicate the result at a glance.
+A link to the proposal's discussion forum thread or RFC post. \
+Display as a pretty link (`[🗣️`` `**`Discussion`**`](discussionUrl)`)
 
-*   #### Proposal Content (`proposalContent`)
+#### Voting Page (`voteUrl`)
 
-    The full text content of the original proposal. Be sure to omit any fields already included in the archive page to avoid redundancy.
-* **Votes (`voteTally`)**\
-  ****The number or percent or votes for each option. Be sure to boldly label each option (e.g. **Yes:** 100%), separate with commas and omit options with "0" value for legibility.
-* **State Changes (`stateChange`)**\
-  ****Describe the governance state changes made as a result of the proposal.
+A link to the proposal's voting page on Snapshot or similar (or link to Discord post, etc. if voting page isn't available).
+Display as a pretty link (`[⚡️`` `**`Snapshot`**`](voteUrl)`)
+
+#### Submission Date (`pubDate)`
+
+The date on which the proposal was submitted to the voting space.
+
+#### Vote Result (`voteResult`)
+
+The result of the vote (Passed, Failed, Etc.)\
+You may want to add an emoji to help indicate the result at a glance.
+
+#### Proposal Content (`proposalContent`)
+
+The full text content of the original proposal. Be sure to omit any fields already included in the archive page to avoid redundancy.
+
+#### Votes (`voteTally`)
+
+The number or percent or votes for each option. Be sure to boldly label each option (e.g. **Yes:** 100%), separate with commas and omit options with "0" value for legibility.
+
+#### State Changes (`stateChange`)
+
+Describe the governance state changes made as a result of the proposal.
 
 ### Proposal Archive Format
 

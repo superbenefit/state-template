@@ -4,7 +4,7 @@ description: The official state and history of <daoName> governance is recorded 
 
 # DAO State Repository
 
-This resource is a template. Fill in this doc repository with your own DAO's information to create a DAO State Repository.&#x20;
+This resource is a template. Fill in this doc repository with your own DAO's information to create a DAO State Repository.
 
 A minimal set of policies and standards is included to serve a narrow governance scope, constrained to **metagovernance only**. You can adjust the scope to suit your needs by adding additional policies and proposal standards to the [Policies & Agreements](/policies/) section.
 
@@ -14,7 +14,7 @@ For best results, please sync this repo to GitBook to create a friendly UI. You 
 
 The daoName state repository is a resource for information related to governance activity, agreements and norms within the DAO. This library was built to provide a central source of truth, and to empower all DAO members with a way to directly affect DAO governance by proposing new initiatives, working groups and policies.
 
-### About daoName Governance
+## About daoName Governance
 
 <!-- Briefly describe your DAO's governance here. -->
 
@@ -44,7 +44,7 @@ The "[Policies](/policies/)" category contains the agreements and standards to w
 
 ### [Archives](/archive/)
 
-The "[Archives](broken-reference)" category contains records of past governance and operational activity. The purpose of this section is to provide an accessible, expanded reference for proposals, policies and other documents which might otherwise be spread across multiple sources and data siloes.
+The "[Archives](broken-reference)" category contains records of past governance and operational activity. The purpose of this section is to provide an accessible, expanded reference for proposals, policies and other documents which might otherwise be spread across multiple sources and data silos.
 
 [approvals](archive/approvals/)
 

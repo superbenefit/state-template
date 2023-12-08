@@ -6,17 +6,17 @@ description: Current operating agreements between members of <daoName>
 
 These agreements govern the terms of membership and participation for all members of the DAO.
 
-### Membership Requirements
+## Membership Requirements
 
 <!-- Briefly describe your DAO's membership requirements here. -->
 
-#### Non-Discrimination Policy
+### Non-Discrimination Policy
 
 <!-- Disclose your non-discrimination policy here. This may be required by some jurisdictions or operating agreements, and it's a good idea to post the policy in a prominent place. -->
 
 daoName does not discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or otherwise.
 
-### Membership Tokens
+## Membership Tokens
 
 <!-- Briefly describe your DAO's use of membership assets (such as ERC-20 governance tokens, NFT membership badges, etc.) -->
 
@@ -39,6 +39,6 @@ The [Community Guidelines](community.md) are a set of recommended best practices
 
 ## [Code of Conduct](conduct.md)
 
-The[ Code of Conduct](conduct.md) is a set of rules and expectations to which all DAO members agree.
+The[Code of Conduct](conduct.md) is a set of rules and expectations to which all DAO members agree.
 
 [conduct.md](conduct.md)
