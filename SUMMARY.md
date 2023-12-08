@@ -4,11 +4,11 @@
 * [Discussion Forum](https://www.discourse.org/)
 * [Voting Space](https://snapshot.org/#/)
 
-## Organization <a href="#dao" id="dao"></a>
+## Organization
 
 * [🗺 DAO Overview](dao/overview.md)
 
-## Policies & Agreements <a href="#policies" id="policies"></a>
+## Policies & Agreements
 
 * [🤝 Membership Agreements](policies/membership/README.md)
   * [Operating Agreement](policies/membership/operating-agreement.md)
@@ -19,7 +19,7 @@
 * [🏛 Governance Policies](policies/governance/README.md)
   * [State Update Policy](policies/governance/state.md)
 
-## Archives <a href="#archive" id="archive"></a>
+## Archives
 
 * [💸 Treasury Approvals](archive/approvals/README.md)
   * [Mainnet Treasury Approvals](archive/approvals/mainnet.md)
