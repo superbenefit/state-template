@@ -4,15 +4,13 @@ description: Standards for proposals to update the <daoName> state repository
 
 # 🏗 State Update Proposals
 
-{% hint style="warning" %}
 The State Update Proposal Standard is used to create proposals to update this DAO state repository. It is a simplified version of the [general proposal standard](./) with some additional [requirements](metagovernance.md#requirements).
 
 To use this proposal standard, edit this document to customize the standard for your DAO's governance use case. If you won't be using this proposal type, simply remove this page.
-{% endhint %}
 
-This is a specialized standard governing the content of proposals submitted to <mark style="color:yellow;">daoName</mark> governance which request changes or additions to the DAO's policies, permissions roster or governance standards.
+This is a specialized standard governing the content of proposals submitted to daoName governance which request changes or additions to the DAO's policies, permissions roster or governance standards.
 
-### Proposal Requirements <a href="#requirements" id="requirements"></a>
+### Proposal Requirements
 
 In addition to the [standard proposal requirements](./), DAO state update proposals must contain the following elements:
 
@@ -25,15 +23,12 @@ In addition to the [standard proposal requirements](./), DAO state update propos
   Describe your intention for making the change request, including the outcome you hope to achieve. This helps to others to better interpret the DAO state language.\
 
 
-## Proposal Formatting <a href="#format" id="format"></a>
+## Proposal Formatting
 
 Proposals should be formatted in an organized manner in order to provide easy reading and comprehension for your fellow DAO members. It is recommended that you use the following format to present your proposal to DAO governance:
 
-<details>
-
-<summary>Proposal Model</summary>
-
-## proposalNumber: proposalTitle <a href="#proposalnumber-proposaltitle" id="proposalnumber-proposaltitle"></a>
+```md
+## proposalNumber: proposalTitle
 
 proposalDescription
 
@@ -41,34 +36,27 @@ Proposed by: proposalAuthor
 
 [**Change Request Link**](https://markdownlivepreview.com/changeRequestUrl)
 
-### Summary <a href="#summary" id="summary"></a>
+### Summary
 
 proposalSummary
 
-### Proposed Changes <a href="#proposed-changes" id="proposed-changes"></a>
+### Proposed Changes
 
 amendmentText
 
-### Intention <a href="#intention" id="intention"></a>
+### Intention
 
 amendmentIntention
+```
 
-</details>
+Example Proposal
 
-<details>
+TBD - Initial gov state proposal to be used as example
 
-<summary>Example Proposal</summary>
 
-<mark style="color:yellow;">TBD - Initial gov state proposal to be used as example</mark>
+### Proposal Templates
 
-</details>
-
-### Proposal Templates <a href="#templates" id="templates"></a>
-
-{% tabs %}
-{% tab title="Markdown" %}
-{% code title="Generic Markdown" lineNumbers="true" %}
-```markdown
+```md
 # proposalNumber: proposalTitle
 
 proposalDescription
@@ -89,12 +77,8 @@ amendmentText
 
 amendmentIntention
 ```
-{% endcode %}
-{% endtab %}
 
-{% tab title="GitHub" %}
-{% code title="GitHub-Flavored Markdown" lineNumbers="true" %}
-```markdown
+```md
 ---
 description: >-
   proposalDescription
@@ -117,9 +101,6 @@ amendmentText
 
 amendmentIntention
 ```
-{% endcode %}
-{% endtab %}
-{% endtabs %}
 
 #### How to Use Proposal Templates
 

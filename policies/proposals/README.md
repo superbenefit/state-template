@@ -4,11 +4,9 @@ description: Standards for proposals submitted to <daoName> governance.
 
 # 📃 Proposal Standards
 
-{% hint style="warning" %}
 This is an example proposal standard. You should edit or replace this standard to reflect your DAO's proposal requirements.
-{% endhint %}
 
-<mark style="color:yellow;">Briefly describe your DAO's use of proposal standards here.</mark>
+Briefly describe your DAO's use of proposal standards here
 
 The purpose of this proposal standard is to ensure that voting members of the DAO have sufficient information to accurately assess incoming governance proposals, participate in constructive debate and cast well-informed votes.
 
@@ -16,7 +14,7 @@ The purpose of this proposal standard is to ensure that voting members of the DA
 * [Proposal Formatting](./#proposal-formatting)
 * [Proposal Templates](./#proposal-templates)
 
-### Types of Proposals <a href="#types" id="types"></a>
+### Types of Proposal
 
 Proposals are requests for community consensus and can result in an update to the DAO State document. Here are some things that proposals can do:
 
@@ -24,14 +22,14 @@ Proposals are requests for community consensus and can result in an update to th
 
 More proposal types can be added by proposing a new standard via a [Governance State Update](metagovernance.md).
 
-## Proposal Requirements <a href="#requirements" id="requirements"></a>
+## Proposal Requirement
 
 All proposals submitted for vote by the DAO must meet the following requirements:
 
 *   #### Proposal Number (`proposalNumber`)
 
     The sequential number of your proposal within the voting space.
-*   #### Title (`proposalTitle`) <a href="#title" id="title"></a>
+*   #### Title (`proposalTitle`
 
     The title of your proposal as a level-1 heading. Your title should be descriptive and concise (ie. "Set up a Partnerships Team").
 *   #### Description (`proposalDescription`)
@@ -53,13 +51,12 @@ All proposals submitted for vote by the DAO must meet the following requirements
 
     The intended outcome of voting for each option in the poll, and description of next steps as needed.
 
-## Proposal Formatting <a href="#format" id="format"></a>
+## Proposal
 
 Proposals should be formatted in an organized manner in order to provide easy reading and comprehension for your fellow DAO members. It is recommended that you use the following format to present your proposal to DAO governance:
 
-<details>
 
-<summary>Proposal Model</summary>
+<summary>Proposal Mode
 
 ## proposalNumber: proposalTitle
 
@@ -79,30 +76,24 @@ proposalBody
 
 proposalOutcome
 
-</details>
 
-<details>
 
-<summary>Example Proposal</summary>
+<summary>Example Proposa
 
-<mark style="color:yellow;">TBD - Initial gov state proposal to be used as example</mark>
+TBD - Initial gov state proposal to be used as exampl
 
-</details>
 
-### Proposal Templates <a href="#templates" id="templates"></a>
+### Proposal Template
 
 Preformatted templates are available for DAO members who wish to author their own proposals.&#x20;
 
-{% tabs %}
-{% tab title="Markdown" %}
-<pre class="language-markdown" data-title="Generic Markdown" data-line-numbers><code class="lang-markdown"># proposalNumber: proposalTitle
+# proposalNumber: proposalTitle
 
 proposalDescription
 
 Proposed by: proposalAuthor
 
-<strong>*replacesOrAmends*
-</strong>
+*replacesOrAmends*
 ## Summary
 
 proposalSummary
@@ -112,11 +103,7 @@ proposalBody
 ## Proposed Outcome
 
 proposalOutcome
-</code></pre>
-{% endtab %}
 
-{% tab title="GitHub" %}
-{% code title="GitHub-Flavored Markdown" lineNumbers="true" %}
 ```markdown
 ---
 description: >-
@@ -126,9 +113,6 @@ description: >-
 
 Proposed by: proposalAuthor
 
-{% raw %}
-{% hint %}*replacesOrAmends*{% endhint %}
-{% endraw %}
 
 ## Summary
 
@@ -140,16 +124,12 @@ proposalBody
 
 proposalOutcome
 ```
-{% endcode %}
-{% endtab %}
 
-{% tab title="Telegram/Discord" %}
-<pre class="language-markdown" data-title="Discord-Flavored Markdown" data-line-numbers><code class="lang-markdown">__**proposalNumber: proposalTitle**__
+**proposalNumber: proposalTitle**__
 proposalDescription
 *Proposed by: proposalAuthor*
 
-<strong>__replacesOrAmends__
-</strong>
+__replacesOrAmends__
 **Summary**
 proposalSummary
 
@@ -157,9 +137,6 @@ proposalBody
 
 **Proposed Outcome**
 proposalOutcome
-</code></pre>
-{% endtab %}
-{% endtabs %}
 
 #### How to Use Proposal Templates
 

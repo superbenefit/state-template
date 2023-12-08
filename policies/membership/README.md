@@ -14,7 +14,7 @@ These agreements govern the terms of membership and participation for all member
 
 <!-- Disclose your non-discrimination policy here. This may be required by some jurisdictions or operating agreements, and it's a good idea to post the policy in a prominent place. -->
 
-<mark style="color:yellow;">daoName</mark> does not discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or otherwise.
+daoName does not discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or otherwise.
 
 ### Membership Tokens
 

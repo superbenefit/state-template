@@ -10,7 +10,7 @@ description: >-
 
 ### DAO State
 
-A record of <mark style="color:yellow;">daoName</mark>'s governance decisions and outcomes are held in this DAO state repository. This is the updatable record of the collective decisions the <mark style="color:yellow;">daoName</mark> community has made.&#x20;
+A record of daoName's governance decisions and outcomes are held in this DAO state repository. This is the updatable record of the collective decisions the daoName community has made.&#x20;
 
 <!-- Describe how your DAO will maintain and interact with the DAO state rep, and its significance in the governance system. -->
 
@@ -42,7 +42,7 @@ List your treasury contracts here. You can use a style such as:
 
 ### Token Contracts
 
-Smart contracts controlling tokens issued by <mark style="color:yellow;">daoName</mark
+Smart contracts controlling tokens issued by daoName
 
 ### Other Contracts
 

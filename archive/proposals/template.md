@@ -6,7 +6,7 @@ description: >-
 
 # Proposal Archive Page Template
 
-This template can be used to quickly create archive pages for proposals submitted to <mark style="color:yellow;">daoName</mark> governance.
+This template can be used to quickly create archive pages for proposals submitted to daoName governance.
 
 ### Required Fields
 
@@ -27,12 +27,14 @@ Copy the following fields from the proposal content and/or voting platform data 
 
 ### Field Definitions
 
-*   #### Title (`proposalTitle`) <a href="#title" id="title"></a>
+*   #### Title (`proposalTitle`)
 
     The title of your document as a level-1 heading.
+
 *   #### Description (`proposalDescription)`
 
     A single-sentence summary of your proposal, often displayed in the header as a subtitle.
+
 *   #### Author (`proposalAuthor)`
 
     The author or co-authors of the proposal.
@@ -42,12 +44,14 @@ Copy the following fields from the proposal content and/or voting platform data 
 * **Voting Page (`voteUrl`)**\
   ****A link to the proposal's voting page on Snapshot or similar (or link to Discord post, etc. if voting page isn't available).\
   Display as a pretty link (`[⚡️`` `**`Snapshot`**`](voteUrl)`)
+
 *   #### Submission Date (`pubDate)`
 
     The date on which the proposal was submitted to the voting space.
 * **Vote Result (`voteResult`)**\
   The result of the vote (Passed, Failed, Etc.)\
   You may want to add an emoji to help indicate the result at a glance.
+
 *   #### Proposal Content (`proposalContent`)
 
     The full text content of the original proposal. Be sure to omit any fields already included in the archive page to avoid redundancy.
@@ -58,17 +62,14 @@ Copy the following fields from the proposal content and/or voting platform data 
 
 ### Proposal Archive Format
 
-<details>
-
-<summary>Document Model</summary>
-
+```md
 ## `proposalTitle`
 
 `description`
 
 Proposed by: `proposalAuthor`
 
-🗣️ Discussion\
+🗣️ Discussion
 🌡️⚡⛓️ Snapshot
 
 **Submitted:** `pubDate`\
@@ -84,15 +85,11 @@ Proposed by: `proposalAuthor`
 ### 🏗️ Governance State Changes
 
 `stateChange`
-
-</details>
+```
 
 #### Proposal Archive Templates
 
-{% tabs %}
-{% tab title="Markdown" %}
-{% code title="Generic Markdown Template" lineNumbers="true" %}
-```markdown
+```md
 # proposalTitle
 
 description
@@ -115,9 +112,6 @@ proposalContent
 ## 🏗️ Governance State Changes
 
 ```
-{% endcode %}
-{% endtab %}
-{% endtabs %}
 
 #### How to Use Archive Templates
 
