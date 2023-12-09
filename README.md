@@ -54,6 +54,8 @@ The "[Archives](broken-reference)" category contains records of past governance 
 
 ## Credits
 
-This DAO State repository was built using the[ DAO State Template](https://github.com/rathermercurial/state-template) created by [rathermercurial.eth](https://rathermercurial.eth.xyz/) as part of the [DAO Primitive Project](https://superbenefit.org/dao-primitive-project) at [SuperBenefit](https://superbenefit.org/).
+This DAO State repository was built using the [DAO State Template](https://github.com/rathermercurial/state-template) created by [rathermercurial.eth](https://rathermercurial.eth.xyz/) as part of the [DAO Primitive Project](https://superbenefit.org/dao-primitive-project) at [SuperBenefit](https://superbenefit.org/).
 
 This resource is unlicensed and free to use, edit and distribute as needed. You can copy it on [GitHub](https://github.com/rathermercurial/state-template). For instructions and other information, please visit [docs.rathermercurial.xyz/repos/state](https://docs.rathermercurial.xyz/repos/state).
+
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)

@@ -26,7 +26,7 @@ Describe how disputes among members should be handled here.
 
 #### Mediation
 
-Describe the role or group which mediates disputes between members of the DAO here. This could be an internal role, or an external party such as [<mark style="color:yellow;">Gravity DAO</mark>](https://gravitydao.org/en/).
+Describe the role or group which mediates disputes between members of the DAO here. This could be an internal role, or an external party such as [Gravity DAO](https://gravitydao.org/en/).
 
 ### Code of Conduct Violations
 
