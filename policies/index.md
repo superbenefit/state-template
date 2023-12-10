@@ -10,6 +10,6 @@ Policies are distinct from [agreements](/agreements/index.md), which reify the s
 
 ## [Metagovernance Policies](/policies/metagovernance/index.md)
 
-## [Administrative Policies](/policies/administration/)
+## [Administrative Policies](/policies/administration/index.md)
 
-## [Operational Policies](/policies/operations/)
+## [Operational Policies](/policies/operations/index.md)
