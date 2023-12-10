@@ -10,9 +10,9 @@ This is an example proposal standard. You should edit or replace this standard t
 
 The purpose of this proposal standard is to ensure that voting members of the DAO have sufficient information to accurately assess incoming governance proposals, participate in constructive debate and cast well-informed votes.
 
-* [Proposal Requirements](./#proposal-requirements)
-* [Proposal Formatting](./#proposal-formatting)
-* [Proposal Templates](./#proposal-templates)
+- [Proposal Requirements](./#proposal-requirements)
+- [Proposal Formatting](./#proposal-formatting)
+- [Proposal Templates](./#proposal-templates)
 
 ## Types of Proposals
 

@@ -10,7 +10,7 @@ Describe your community's shared values and/or include its MVV statement here.
 
 ## Dispute Resolution
 
-Briefly describe your DAO's approach to dispute resolution here. It's important to define these expectations *before* conflict emerges and may be required by some operating agreements or compliance requirements.
+Briefly describe your DAO's approach to dispute resolution here. It's important to define these expectations _before_ conflict emerges and may be required by some operating agreements or compliance requirements.
 
 ### Disputes with the DAO
 

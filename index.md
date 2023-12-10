@@ -8,9 +8,9 @@ You can learn more about daoName's governance process on the [Governance Overvie
 
 ## Table of Contents
 
-* [Organization](./#organization)
-* [Policies](./#policies)
-* [Archives](./#archives)
+- [Organization](./#organization)
+- [Policies](./#policies)
+- [Archives](./#archives)
 
 ### [Organization](/dao/)
 

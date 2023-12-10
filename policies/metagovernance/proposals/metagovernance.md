@@ -20,11 +20,11 @@ In addition to the [standard proposal requirements](./), DAO state update propos
 
 ### Amendment Text (`amendmentText`)
 
-  The full text of the proposed change, including any text replaced or removed.
+The full text of the proposed change, including any text replaced or removed.
 
 ### Author's Intention (`amendmentIntention`)
 
-  Describe your intention for making the change request, including the outcome you hope to achieve. This helps to others to better interpret the DAO state language.\
+Describe your intention for making the change request, including the outcome you hope to achieve. This helps to others to better interpret the DAO state language.\
 
 ## Proposal Formatting
 

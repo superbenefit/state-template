@@ -22,5 +22,4 @@ NFT Contract Address: address
 
 [Trustless Unincorporated Nonprofit Association Agreement (“TUNAA”)](https://de.una.ricardian.eth.limo/)
 
-
 If you're not using a Ricardian NFT, you should publish the full text of the operating agreement on this page.
