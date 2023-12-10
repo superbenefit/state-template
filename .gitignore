@@ -3,3 +3,7 @@
 
 # Ignore VS Code settings
 .vscode/
+
+# Ignore Prettier settings
+.prettierignore
+.prettierrc
