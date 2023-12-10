@@ -8,8 +8,8 @@ These policies constitute the body of principles by which the DAO (including its
 
 Policies are distinct from [agreements](/agreements/index.md), which reify the social contract held between members of the DAO.
 
-## Metagovernance Policies
+## [Metagovernance Policies](/policies/metagovernance/index.md)
 
-## Administrative Policies
+## [Administrative Policies](/policies/administration/)
 
-## Operational Policies
+## [Operational Policies](/policies/operations/)
