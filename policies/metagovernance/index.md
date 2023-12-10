@@ -3,4 +3,3 @@ description: Policies governing the responsible stewardship of <daoName> governa
 ---
 
 # 🏛 Governance Policies
-
