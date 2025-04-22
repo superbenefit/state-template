@@ -1,43 +1,69 @@
+---
+description: The official state and documentation of DAO governance.
+---
+
 # DAO State Repository
 
-The daoName state repository is a resource for information related to governance activity, agreements and norms within the DAO. This library was built to provide a central source of truth, and to empower all DAO members with a way to directly affect DAO governance by proposing new initiatives, working groups and policies.
+Welcome to the DAO State Repository. This resource serves as the central source of truth for all information related to governance structure, agreements, and collective decision-making processes. By maintaining these records in a consistent, accessible format, we enable transparency, accountability, and informed participation by all members.
 
-<!-- Briefly describe your DAO's governance here. -->
+## What is a DAO State Repository?
 
-You can learn more about daoName's governance process on the [Governance Overview](dao/overview.md) page.
+A DAO State Repository functions as the formal record of a decentralized organization's governance. It contains the collective agreements that define how the organization operates, makes decisions, and evolves over time. This repository is version-controlled to provide a reliable history of governance changes and is designed to empower all members with the information they need to participate effectively.
 
 ## Table of Contents
 
-- [Organization](./#organization)
-- [Policies](./#policies)
-- [Archives](./#archives)
+- [State](#state)
+- [Agreements](#agreements)
+- [Policies](#policies)
+- [Archives](#archives)
 
-### [Organization](/dao/)
+### State
 
-The "[Organization](/dao/)" category contains information related to roles and working groups. The purpose of this section is to provide transparency for DAO operations and to help members understand roles and permissions within the organization.
+The "State" section provides information about the DAO's structure, including its purpose, working groups, and roles. This section helps members understand how the organization functions to achieve collective goals.
 
-[overview.md](dao/overview.md)
+- [Overview](state/overview.md) - Purpose, vision, and organizational model
+- [Roles & Responsibilities](state/roles.md) - Key positions and their authorities
+- [Working Groups](state/working-groups.md) - Active teams and their mandates
 
-### [Policies](/policies/)
+### Agreements
 
-The "[Policies](/policies/)" category contains the agreements and standards to which all DAO members are held. The purpose of this section is to help members understand and consent to the cultural norms and operating agreements we share.
+The "Agreements" section contains the foundational contracts between members of the DAO. These agreements establish shared expectations, rights, and obligations within the organization.
 
-[membership](policies/membership/)
+- [Community Guidelines](agreements/community_guidelines.md) - Norms and shared practices
+- [Code of Conduct](agreements/code_of_conduct.md) - Behavioral expectations for members
+- [Operating Agreement](agreements/operating_agreement.md) - Legal framework for the organization
 
-[proposals](policies/proposals/)
+### Policies
 
-[governance](policies/governance/)
+The "Policies" section outlines the standard procedures and rules governing DAO operations. These policies create consistent, predictable processes for decision-making and organizational management.
 
-### [Archives](/archive/)
+- [Metagovernance](policies/metagovernance/)
+  - [Proposals](policies/metagovernance/proposals/) - Standards for governance updates
+  - [State Management](policies/metagovernance/state/) - Process for changing this repository
+- [Operational Policies](policies/operations/) - Procedures for day-to-day activities
+- [Administrative Policies](policies/administration/) - General organizational management
 
-The "[Archives](broken-reference)" category contains records of past governance and operational activity. The purpose of this section is to provide an accessible, expanded reference for proposals, policies and other documents which might otherwise be spread across multiple sources and data silos.
+### Archives
 
-[approvals](archive/approvals/)
+The "Archives" section maintains historical records of past proposals, decisions, and governance changes. This section ensures transparency and helps new members understand the evolution of the organization.
 
-[updates.md](archive/updates.md)
+- [Proposal Archive](archive/proposals/) - Record of all submitted proposals
+- [Treasury Approvals](archive/approvals/) - History of resource allocation decisions
 
-[proposals](archive/proposals/)
+## Using This Repository
 
-### Credits
+### For New Members
 
-This DAO State repository was built using the [DAO State Template](https://github.com/rathermercurial/state-template) created by [rathermercurial.eth](https://rathermercurial.eth.xyz/) as part of the [DAO Primitive Project](https://superbenefit.org/dao-primitive-project) at [SuperBenefit](https://superbenefit.org/).
+If you're new to the organization, we recommend starting with the State section to understand the purpose and structure, followed by the Agreements to learn about rights and responsibilities within the DAO.
+
+### For Active Contributors
+
+Active contributors should familiarize themselves with the Policies section to effectively participate in organizational decision-making.
+
+### For Working Group Leaders
+
+Those leading working groups should reference the Operational Policies for guidance on coordinating activities and managing resources within the organization.
+
+---
+
+This State Repository is maintained by the governance team and serves as the definitive record of the DAO's governance. All members are encouraged to propose improvements to this documentation through the metagovernance process.

@@ -1,8 +1,10 @@
 # Community Guidelines
 
-Briefly describe your DAO's use of community guidelines and other forms of social contract. This can include shared values, On/Offboarding expectations, rules for civilized discussion and dispute management practices, etc.
+Briefly describe your DAO's use of community guidelines and other aspects of it's social compact. This can include shared values, On/Offboarding expectations, rules for civilized discussion and dispute management practices, etc.
 
 It's a good idea to record all of these in one place to help members access and develop shared understanding. Add or remove sections as needed to include all relevant information.
+
+Here are some examples to help you get started:
 
 ## Shared Values
 
