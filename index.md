@@ -17,14 +17,6 @@ A DAO State Repository functions as the formal record of a decentralized organiz
 - [Policies](#policies)
 - [Archives](#archives)
 
-### State
-
-The "State" section provides information about the DAO's structure, including its purpose, working groups, and roles. This section helps members understand how the organization functions to achieve collective goals.
-
-- [Overview](state/overview.md) - Purpose, vision, and organizational model
-- [Roles & Responsibilities](state/roles.md) - Key positions and their authorities
-- [Working Groups](state/working-groups.md) - Active teams and their mandates
-
 ### Agreements
 
 The "Agreements" section contains the foundational contracts between members of the DAO. These agreements establish shared expectations, rights, and obligations within the organization.
