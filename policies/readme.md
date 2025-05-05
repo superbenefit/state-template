@@ -28,14 +28,12 @@ This template includes a basic directory structure you can modify to suit your n
 
 The included structure is just one possible approach - your organization may benefit from a completely different organization method based on your size, activities, and governance philosophy.
 
-## Example Directory Structure
+### Example Directory Structure
 
 The included structure organizes policies into broad categories:
 
 ```
 policies/
-├── README.md              # This information file
-├── index.md               # Optional overview page
 ├── metagovernance/        # Policies about governance itself
 ├── administration/        # Platform and system policies
 └── operations/            # Day-to-day activity policies
@@ -43,7 +41,19 @@ policies/
 
 This structure is meant as a starting point - adapt it freely. Some organizations might prefer to organize by working group, by function, by stakeholder group, chronologically, or using an entirely different approach.
 
-## Documentation Considerations
+## How to Customize This Registry
+
+To adapt this registry for your organization:
+
+1. Replace the placeholders with your actual policies
+2. Update descriptions to match your organization's terminology
+3. Add or remove policy categories based on your governance model
+4. Link to existing documents when creating new entries
+5. Consider organizing policies into subdirectories if they become numerous
+
+As your organization evolves, maintain this registry by documenting new policies and updating existing ones through your established governance processes.
+
+### Documentation Considerations
 
 As you document your policies, you might find it helpful to consider:
 
@@ -55,7 +65,7 @@ As you document your policies, you might find it helpful to consider:
 
 These considerations aren't requirements but may help you create documentation that serves your organization's needs.
 
-## Integration with Your Governance
+### Integration with Your Governance
 
 Effective policy documentation typically connects with your broader governance practices. You might consider how this documentation relates to:
 
