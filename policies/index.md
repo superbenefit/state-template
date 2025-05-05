@@ -1,15 +1,28 @@
 ---
-description: Policies governing the structure and administration of the DAO
+description: An index of policies that govern the operations of your organization
 ---
 
-# DAO Policies
+<!-- CUSTOMIZE: Update with your organization's name -->
+# Policy Registry
 
-These policies constitute the body of principles by which the DAO (including its platforms, systems, roles and protocols) will operate and self-govern in the fulfillment of its purpose.
+<!-- CUSTOMIZE: Modify this introduction to reflect your organization's approach to policies -->
+This registry contains policies that define how your organization operates and makes decisions. These policies establish procedures, standards, and guidelines for organizational activities and resource allocation.
 
-Policies are distinct from [agreements](/agreements/index.md), which reify the social contract held between members of the DAO.
+<!-- CUSTOMIZE: Adapt this section to reflect your understanding of policies -->
+## Understanding Policies
 
-## [Metagovernance Policies](/policies/metagovernance/index.md)
+Policies create frameworks for consistent decision-making and action. Unlike agreements (which focus on relationships between participants), policies govern systems, processes, and organizational functions. Clear policies reduce decision fatigue and enable predictable operations while maintaining alignment with shared purpose.
 
-## [Administrative Policies](/policies/administration/index.md)
+<!-- CUSTOMIZE: Replace with your organization's policy types -->
+### Types of Policies
 
-## [Operational Policies](/policies/operations/index.md)
+* **Governance Policies** - Define how collective decisions are made and implemented
+* **Operational Policies** - Guide day-to-day activities and resource allocation
+* **Administrative Policies** - Govern platforms, tools, and organizational systems
+
+<!-- CUSTOMIZE: Add links to your actual policies below -->
+## Current Policies
+
+* [Metagovernance](metagovernance/) - Policies about governance itself
+* [Operations](operations/) - Procedures for day-to-day activities
+* [Administration](administration/) - Platform and system management
