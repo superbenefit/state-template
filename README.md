@@ -6,6 +6,8 @@ description: A template for DAO governance documentation
 
 A template for documenting DAO governance through version-controlled, transparent workflows.
 
+*This template is meant to serve as a starting place for developing your organization's governance documentation. You should copy this template and customize it to suit your organization's unique context.*
+
 ## What is a DAO State Repository?
 
 A DAO State Repository serves as the canonical source of truth for governance within a Decentralized Autonomous Organization. Unlike traditional documentation that often becomes outdated or scattered across platforms, this centralized approach provides a transparent history of all governance decisions and documents. Members gain equal access to information about how the organization operates, makes decisions, and evolves over time.

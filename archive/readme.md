@@ -2,20 +2,15 @@
 
 This directory maintains the historical record of your organization's governance decisions, proposals, and state changes.
 
+*Most DAOs have some form of proposals, as well as some authority to approve transactions outside of the proposal process (such as council decisions, workstream transactions, protocol upgrades, etc.) You can use the included directories to contain these documents if needed, or you can replace these directories with something else.*
+
 ## Purpose
 
 The archive serves as institutional memory, supporting transparency and accountability as your organization evolves. Well-maintained archives help new members understand past decisions and enable governance participants to build on previous work.
 
 ## Implementation Approach
 
-### Archive Components
-
-A comprehensive archive typically includes:
-
-- **Proposals** - Historical governance proposals and their outcomes
-- **Decisions** - Records of significant governance decisions
-- **Treasury Actions** - Documentation of resource allocations
-- **State Changes** - History of repository updates
+You should modify the archive directory to support whatever governance archives your organization needs. 
 
 ### Organization Methods
 

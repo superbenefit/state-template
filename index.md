@@ -9,18 +9,19 @@ description: The official state and documentation of DAO governance.
 Welcome to the DAO State Repository. This resource serves as the central source of truth for all information related to governance structure, agreements, and collective decision-making processes. By maintaining these records in a consistent, accessible format, we enable transparency, accountability, and informed participation by all members.
 
 <!-- CUSTOMIZE: Modify this section to explain your repository's purpose -->
+
 ## What is a DAO State Repository?
 
 A DAO State Repository functions as the formal record of a decentralized organization's governance. It contains the collective agreements that define how the organization operates, makes decisions, and evolves over time. This repository is version-controlled to provide a reliable history of governance changes and is designed to empower all members with the information they need to participate effectively.
 
 ## Table of Contents
 
-- [State](#state)
 - [Agreements](#agreements)
 - [Policies](#policies)
 - [Archives](#archives)
 
 <!-- CUSTOMIZE: Update with your organization's specific agreements -->
+
 ### Agreements
 
 The "Agreements" section contains the foundational contracts between members of the DAO. These agreements establish shared expectations, rights, and obligations within the organization.
@@ -30,17 +31,13 @@ The "Agreements" section contains the foundational contracts between members of 
 - [Operating Agreement](agreements/operating_agreement.md) - Legal framework for the organization
 
 <!-- CUSTOMIZE: Update with your organization's specific policies -->
+
 ### Policies
 
 The "Policies" section outlines the standard procedures and rules governing DAO operations. These policies create consistent, predictable processes for decision-making and organizational management.
 
-- [Metagovernance](policies/metagovernance/)
-  - [Proposals](policies/metagovernance/proposals/) - Standards for governance updates
-  - [State Management](policies/metagovernance/state/) - Process for changing this repository
-- [Operational Policies](policies/operations/) - Procedures for day-to-day activities
-- [Administrative Policies](policies/administration/) - General organizational management
-
 <!-- CUSTOMIZE: Update with your organization's archive structure -->
+
 ### Archives
 
 The "Archives" section maintains historical records of past proposals, decisions, and governance changes. This section ensures transparency and helps new members understand the evolution of the organization.

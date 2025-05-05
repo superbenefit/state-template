@@ -2,6 +2,8 @@
 
 This directory contains foundational documents that define relationships and expectations within your organization. These social contracts establish the foundation for how members interact and collaborate.
 
+*The example agreements in this directory are to help inspire you to consider what agreements exist within your organization. You should modify or replace these agreements with your organization's actual agreements established through a consensus process.*
+
 ## Purpose
 
 Agreements define the social contracts between members and the organization. While policies govern systems and processes, agreements focus on relationships and mutual commitments. Well-crafted agreements enable autonomous action while maintaining alignment with your shared purpose.
