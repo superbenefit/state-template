@@ -49,6 +49,48 @@ The template organizes governance documentation into three main sections:
 
 **Archives** maintain historical records including past proposals and approvals, providing institutional memory and accountability.
 
+## File Disposition Guide
+
+This template contains several types of files, each serving a different purpose during implementation. This guide will help you understand what to do with each file type when deploying for your organization.
+
+### Files to Customize and Keep
+
+These files form the core of your governance documentation:
+
+- **index.md files** - Navigation pages for your members. Customize these with your organization's specific information.
+- **constitution.md** - Replace the template content with your organization's foundational principles.
+- **governance.md** - Adapt to reflect your documentation management processes.
+- **Agreement files** - (code_of_conduct.md, community_guidelines.md, operating_agreement.md): Customize with your organization's specific agreements.
+- **Policy directories** - Populate with your organization's specific policies.
+
+### Files to Either Customize or Remove
+
+These files may or may not be relevant to your deployed documentation:
+
+- **README.md** - Either replace with your organization-specific content or rename to something more appropriate for your members.
+- **contributing.md** - Either customize to reflect your technical contribution guidelines or remove if not needed.
+
+### Files to Remove
+
+These files are only for implementation guidance and should be removed from your production deployment:
+
+- **All readme.md files** - These contain implementation guidance only and should be removed when deploying.
+- **Template instructions** - Any sections marked with customization comments should be replaced with your content.
+
+### Platform-Specific Deployment
+
+#### GitHub Pages
+
+For GitHub Pages deployment:
+- Keep the structure as is, with index.md files serving as landing pages for each directory.
+
+#### GitBook
+
+For GitBook deployment:
+1. Rename the root index.md to SUMMARY.md
+2. Rename all other index.md files to readme.md
+3. Delete the existing readme.md files first to avoid conflicts
+
 ## Customization Guide
 
 After initial setup, begin customizing the repository to reflect your organization's specific governance model. Start by updating the essential files including README.md, operating agreements, and metagovernance policies. Remove all template instruction blocks and replace example text with your actual content.

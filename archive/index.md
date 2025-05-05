@@ -1,7 +1,10 @@
+<!-- CUSTOMIZE: Update with your organization's name -->
 # 🗃️ Governance Archives
 
+<!-- CUSTOMIZE: Modify this introduction to reflect your organization's approach to archives -->
 The Governance Archives preserve the history of our collective decision-making, serving as the institutional memory of the organization and providing transparency into our evolution. This section contains historical proposals, treasury approvals, and documentation of governance milestones.
 
+<!-- CUSTOMIZE: Adapt this section to highlight the importance of archives in your context -->
 ## Why Archives Matter
 
 Archives play several important roles in decentralized governance:
@@ -12,10 +15,12 @@ Archives play several important roles in decentralized governance:
 - **Learning**: They contain valuable insights from past experiences
 - **Continuity**: They maintain organizational knowledge across changing membership
 
+<!-- CUSTOMIZE: Update to reflect your archive organization structure -->
 ## Archive Organization
 
 The archives can be organized in various ways to suit your organization's needs. A common approach includes:
 
+<!-- CUSTOMIZE: Update to reflect your proposal archive structure -->
 ### Proposal Archives
 
 The Proposal Archive typically contains governance proposals that have been formally submitted for consideration, such as:
@@ -26,6 +31,7 @@ The Proposal Archive typically contains governance proposals that have been form
 
 Proposals often include the original text, voting outcomes, and implementation details.
 
+<!-- CUSTOMIZE: Update to reflect your treasury records approach -->
 ### Treasury Records
 
 Treasury records might document resource allocations, including:
@@ -45,6 +51,7 @@ Git's version control system provides a built-in way to track changes to the rep
 - Blame view helps identify who made specific changes and why
 - Compare view allows examination of differences between versions
 
+<!-- CUSTOMIZE: Adapt this guidance to your organization's context -->
 ## Using the Archives
 
 Archives can serve different purposes for different members of the organization:
@@ -91,6 +98,7 @@ For example:
 [Implement Governance Structure](link-to-proposal) (Approved, Date)
 ```
 
+<!-- CUSTOMIZE: Update to reflect your archive timeline and maintenance process -->
 ## Archive Timeline
 
 Archives typically reflect the organization's governance history from inception to present. New materials may be added as governance processes complete, creating an ongoing record of collective decisions.
