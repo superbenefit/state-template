@@ -1,6 +1,16 @@
-# Contributing to Your DAO State Repository
+# Contributing to Your Governance Repository
 
-This guide outlines how to effectively maintain and contribute to your governance documentation. A well-maintained DAO State Repository serves as both a practical reference and an accurate historical record of your organization's evolution.
+This guide outlines how to effectively maintain and contribute to your governance documentation. A well-maintained Governance Repository serves as both a practical reference and an accurate historical record of your organization's evolution.
+
+## Understanding the Repository Structure
+
+The repository contains two distinct types of files that serve different purposes:
+
+1. **Model Documentation Files** - These are the files that demonstrate what actual governance documentation should look like. They include index.md files in the root and subdirectories, as well as content files like governance.md and constitution.md.
+
+2. **Implementation Guidance Files** - These are files that provide instructions for setting up and customizing the repository, but are not part of the governance documentation itself. They include readme.md files in subdirectories and the implementation_guide.md file.
+
+When deploying your organization's governance repository, implementation guidance files should be removed, while model documentation files should be customized to reflect your specific governance.
 
 ## Guiding Principles for Contributions
 
@@ -49,5 +59,15 @@ Update [document name]: [brief description]
 ```
 
 For example, "Update operating_agreement.md: Add dispute resolution process" immediately communicates the scope and purpose of the change. For more complex changes, the optional explanation provides context that helps others understand the reasoning behind the modification.
+
+## Implementation vs. Model Content
+
+When working with this repository, maintain a clear distinction between implementation guidance and model content:
+
+**Implementation guidance** explains how to set up and customize the repository. This includes technical instructions, template explanations, and customization guidance. These components are essential during setup but should be removed from your production repository.
+
+**Model content** demonstrates what your actual governance documentation should look like. This includes the narrative style, organizational structure, and content approach that your governance documentation should follow.
+
+When customizing the repository, replace all implementation notes (marked as HTML comments) with your organization's actual content. Transform template shells into complete, authentic documentation that reflects your organization's specific governance.
 
 By following these guidelines, you'll help maintain a governance repository that serves as both a practical reference and an accurate historical record of your organization's evolution. Your contributions will be more accessible, understandable, and useful to the community as a whole.
