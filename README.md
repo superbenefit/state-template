@@ -18,7 +18,7 @@ The governance documentation is organized into three interconnected sections:
 
 **Policies** translate agreements into practical systems that enable coordination across different scales and domains. These frameworks evolve more frequently than agreements, allowing the governance system to adapt to changing needs while preserving foundational coordination mechanisms.
 
-**Archives** maintain institutional memory of governance decisions and their outcomes. This section preserves records that demonstrate how collective decisions have shaped the organization, creating accountability and enabling new participants to understand the organization's development.
+**Proposals** maintain institutional memory of governance decisions and their outcomes. This section preserves records that demonstrate how collective decisions have shaped the organization, creating accountability and enabling new participants to understand the organization's development.
 
 Together, these sections create a governance ecosystem that supports meaningful participation while ensuring coordination occurs in ways that advance shared purpose.
 
